@@ -29,3 +29,5 @@ Lista 05
   b
   c
   d
+  
+Lista 06
